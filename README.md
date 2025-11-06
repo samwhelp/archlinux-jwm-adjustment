@@ -28,7 +28,7 @@
 
 | Script |
 | ------ |
-| [Archlinux Jwm Config](https://github.com/samwhelp/archlinux-jwm-adjustment/tree/main/prototype/main/jwm-config/full/Main) |
+| [Archlinux Jwm Config](https://github.com/samwhelp/archlinux-jwm-adjustment/tree/main/prototype/main/jwm-config/part/Main) |
 | [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
