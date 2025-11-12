@@ -12,3 +12,13 @@
 ##
 
 jwm
+
+
+
+
+##
+## ## Package / Theme
+##
+
+orchis-theme
+papirus-icon-theme
